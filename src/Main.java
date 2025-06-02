@@ -3,8 +3,8 @@ public class Main {
         int a = 10;
         int b = 3;
 
-        int value = a + b;
+        int sum = a + b;
 
-        System.out.println(value);
+        System.out.println(sum);
     }
 }
